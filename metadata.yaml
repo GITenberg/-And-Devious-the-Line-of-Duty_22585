@@ -1,0 +1,41 @@
+_repo: -And-Devious-the-Line-of-Duty_22585
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schelling, George
+    aliases:
+    - Schelling, George L.
+    - Schelling
+    - Schelling, George Luther
+    birthdate: 1938
+    gutenberg_agent_id: '25425'
+    url: http://www.gutenberg.org/2009/agents/25425
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Godwin, Tom
+    birthdate: 1915
+    deathdate: 1980
+    gutenberg_agent_id: '25402'
+    url: http://www.gutenberg.org/2009/agents/25402
+    wikipedia: http://en.wikipedia.org/wiki/Tom_Godwin
+description: Sometimes the most diligent and loyal thing an old man can do is fumble,
+  drink beer, and let a young man get into trouble ... A classic tale from the golden
+  age of science fiction. Originally appeard in 'Analog science fact and fiction',
+  Dec. 1962.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: —And Devious the Line of Duty
+url: http://www.gutenberg.org/ebooks/22585
